@@ -1,0 +1,19 @@
+1) verify functionality for check and quiz_start, verify user_hist is correctly updated
+2) load quiz into web (see whether the latest is on box or hard)
+3) lecon contents load check > incorporate in web
+4) user functionalities - logged in user options (add remove lang, lec, trans), 
+5) lecon menu
+recherche mot! - add form to search new mot + store details in $_SESSION + uvodni stranka search
+6) links on pages
+7) login form
+8) remember last lesson
+9) add/remove stuff for logged users
+10) jscript for fixed page contents
+
+
+// session - keep ID mot in quiz => check from _SESSION['id_mot']
+//open session all files
+//add to session array for failed questions? dokud quiz bezi, vsechny spatne do pole > pole do session variable
+- do pole vlozit obsah _session[failed] > pridat za to nove > vlozit zpet do _session[failed
+//pridat spravu lekci plus design
+//ruzna view dle uzivatele]
